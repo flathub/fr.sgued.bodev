@@ -38,8 +38,8 @@
       "generated-sources.json",
       {
           "type": "git",
-          "commit": "4bf5db526ef79a84ee7292b7da5431e03d6a9db5",
-          "url": "https://gitlab.com/sgued/bodev.git"
+          "commit": "18a43451e485a120a2d3d517b8c1450f1609764e",
+          "url": "https://codeberg.org/sgued/bodev.git"
       }
     ]
   }]
