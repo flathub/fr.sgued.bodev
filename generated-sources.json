@@ -4802,14 +4802,14 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/open/open-5.3.1.crate",
-        "sha256": "3ecd52f0b8d15c40ce4820aa251ed5de032e5d91fab27f7db2f40d42a8bdf69c",
-        "dest": "cargo/vendor/open-5.3.1"
+        "url": "https://static.crates.io/crates/open/open-5.3.2.crate",
+        "sha256": "e2483562e62ea94312f3576a7aca397306df7990b8d89033e18766744377ef95",
+        "dest": "cargo/vendor/open-5.3.2"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"3ecd52f0b8d15c40ce4820aa251ed5de032e5d91fab27f7db2f40d42a8bdf69c\", \"files\": {}}",
-        "dest": "cargo/vendor/open-5.3.1",
+        "contents": "{\"package\": \"e2483562e62ea94312f3576a7aca397306df7990b8d89033e18766744377ef95\", \"files\": {}}",
+        "dest": "cargo/vendor/open-5.3.2",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -5369,6 +5369,19 @@
         "type": "inline",
         "contents": "{\"package\": \"11ec05c52be0a07b08061f7dd003e7d7092e0472bc731b4af7bb1ef876109802\", \"files\": {}}",
         "dest": "cargo/vendor/proc-macro-error2-2.0.1",
+        "dest-filename": ".cargo-checksum.json"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://static.crates.io/crates/proc-macro-hack/proc-macro-hack-0.5.20+deprecated.crate",
+        "sha256": "dc375e1527247fe1a97d8b7156678dfe7c1af2fc075c9a4db3690ecd2a148068",
+        "dest": "cargo/vendor/proc-macro-hack-0.5.20+deprecated"
+    },
+    {
+        "type": "inline",
+        "contents": "{\"package\": \"dc375e1527247fe1a97d8b7156678dfe7c1af2fc075c9a4db3690ecd2a148068\", \"files\": {}}",
+        "dest": "cargo/vendor/proc-macro-hack-0.5.20+deprecated",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -6580,14 +6593,14 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/syn/syn-2.0.94.crate",
-        "sha256": "987bc0be1cdea8b10216bd06e2ca407d40b9543468fafd3ddfb02f36e77f71f3",
-        "dest": "cargo/vendor/syn-2.0.94"
+        "url": "https://static.crates.io/crates/syn/syn-2.0.95.crate",
+        "sha256": "46f71c0377baf4ef1cc3e3402ded576dccc315800fbc62dfc7fe04b009773b4a",
+        "dest": "cargo/vendor/syn-2.0.95"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"987bc0be1cdea8b10216bd06e2ca407d40b9543468fafd3ddfb02f36e77f71f3\", \"files\": {}}",
-        "dest": "cargo/vendor/syn-2.0.94",
+        "contents": "{\"package\": \"46f71c0377baf4ef1cc3e3402ded576dccc315800fbc62dfc7fe04b009773b4a\", \"files\": {}}",
+        "dest": "cargo/vendor/syn-2.0.95",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -7126,6 +7139,32 @@
         "type": "inline",
         "contents": "{\"package\": \"0a5422c1f65949306c99240b81de9f3f15929f5a8bfe05bb44b034cc8bf593e5\", \"files\": {}}",
         "dest": "cargo/vendor/unic-langid-impl-0.9.5",
+        "dest-filename": ".cargo-checksum.json"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://static.crates.io/crates/unic-langid-macros/unic-langid-macros-0.9.5.crate",
+        "sha256": "0da1cd2c042d3c7569a1008806b02039e7a4a2bdf8f8e96bd3c792434a0e275e",
+        "dest": "cargo/vendor/unic-langid-macros-0.9.5"
+    },
+    {
+        "type": "inline",
+        "contents": "{\"package\": \"0da1cd2c042d3c7569a1008806b02039e7a4a2bdf8f8e96bd3c792434a0e275e\", \"files\": {}}",
+        "dest": "cargo/vendor/unic-langid-macros-0.9.5",
+        "dest-filename": ".cargo-checksum.json"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://static.crates.io/crates/unic-langid-macros-impl/unic-langid-macros-impl-0.9.5.crate",
+        "sha256": "1ed7f4237ba393424195053097c1516bd4590dc82b84f2f97c5c69e12704555b",
+        "dest": "cargo/vendor/unic-langid-macros-impl-0.9.5"
+    },
+    {
+        "type": "inline",
+        "contents": "{\"package\": \"1ed7f4237ba393424195053097c1516bd4590dc82b84f2f97c5c69e12704555b\", \"files\": {}}",
+        "dest": "cargo/vendor/unic-langid-macros-impl-0.9.5",
         "dest-filename": ".cargo-checksum.json"
     },
     {
