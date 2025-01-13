@@ -26,7 +26,7 @@
     },
     "build-commands": [
       "cargo --offline fetch --verbose",
-      "cargo --offline build --release --verbose"
+      "cargo --offline build --release --verbose --features all-formats"
     ],
     "post-install": [
       "install -Dm755 ./target/release/bodev -t /app/bin/",
@@ -38,7 +38,7 @@
       "generated-sources.json",
       {
           "type": "git",
-          "commit": "18a43451e485a120a2d3d517b8c1450f1609764e",
+          "commit": "9ad8fbbb4241c68858b7e3bc1ebf890a004e830f",
           "url": "https://codeberg.org/sgued/bodev.git"
       }
     ]
