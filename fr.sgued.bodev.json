@@ -1,7 +1,7 @@
 {
   "app-id": "fr.sgued.bodev",
   "runtime": "org.freedesktop.Platform",
-  "runtime-version": "24.08",
+  "runtime-version": "25.08",
   "base": "com.system76.Cosmic.BaseApp",
   "base-version": "stable",
   "sdk": "org.freedesktop.Sdk",
@@ -38,7 +38,7 @@
       "generated-sources.json",
       {
           "type": "git",
-          "commit": "d2c3776bcaf04d0f8aadd6242014227c9f7484f4",
+          "commit": "fcf11ae87a96cd4c7ed4b69837d9232a08e46d0b",
           "url": "https://codeberg.org/sgued/bodev.git"
       }
     ]
